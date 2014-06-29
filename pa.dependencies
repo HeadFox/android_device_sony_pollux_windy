@@ -43,7 +43,7 @@
   },
   {
     "remote":       "github",
-    "repository":   "omnirom/android_external_wpa_supplicant_8_ti",
+    "repository":   "CyanogenMod/android_external_wpa_supplicant_8_ti",
     "target_path":  "external/wpa_supplicant_8_ti",
     "revision":     "android-4.4"
   },
