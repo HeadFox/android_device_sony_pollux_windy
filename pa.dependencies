@@ -6,10 +6,10 @@
     "revision":     "android-4.4"
   },
   {
-    "repository":   "omnirom/android_device_sony_qcom-common",
+    "repository":   "android_device_sony_qcom-common",
     "target_path":  "device/sony/qcom-common",
-    "remote":       "github",
-    "revision":     "android-4.4"
+    "remote":       "cm",
+    "revision":     "cm-11.0"
   },
   {
     "remote":       "github",
